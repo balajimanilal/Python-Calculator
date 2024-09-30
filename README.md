@@ -1,5 +1,5 @@
 # Python-Calculator
-Welcome to the **Python Calculator**! This Python project allows you to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly and interactive, providing an easy way to conduct calculations through the command line.
+Welcome to the **Python Calculator** Repo! This Python project allows you to perform basic arithmetic operations including addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly and interactive, providing an easy way to conduct calculations through the command line.
 
 ## Features
 
